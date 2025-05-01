@@ -2,7 +2,7 @@ const express = require('express');
 const renderApi = require('api')('@render-api/v1.0#4w9d16m9vwpbdt');
 
 const app = express();
-const PORT = "https://real-pro2.onrender.com/Items"|| 3000;
+const PORT = process.env.PORT || 3000;
 const cors = require('cors');
 app.use(cors());
 
