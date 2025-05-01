@@ -308,15 +308,10 @@ C:\Users\User\Desktop\pro3\TodoApi\obj\Debug\net9.0\scopedcss\bundle\TodoApi.sty
 C:\Users\User\Desktop\pro3\TodoApi\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\User\Desktop\pro3\TodoApi\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\User\Desktop\pro3\TodoApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\User\Desktop\pro3\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\User\Desktop\pro3\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\User\Desktop\pro3\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.build.TodoApi.props
-C:\Users\User\Desktop\pro3\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
-C:\Users\User\Desktop\pro3\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
-C:\Users\User\Desktop\pro3\TodoApi\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\User\Desktop\pro3\TodoApi\obj\Debug\net9.0\TodoApi.csproj.Up2Date
 C:\Users\User\Desktop\pro3\TodoApi\obj\Debug\net9.0\TodoApi.dll
 C:\Users\User\Desktop\pro3\TodoApi\obj\Debug\net9.0\refint\TodoApi.dll
 C:\Users\User\Desktop\pro3\TodoApi\obj\Debug\net9.0\TodoApi.pdb
 C:\Users\User\Desktop\pro3\TodoApi\obj\Debug\net9.0\TodoApi.genruntimeconfig.cache
 C:\Users\User\Desktop\pro3\TodoApi\obj\Debug\net9.0\ref\TodoApi.dll
+C:\Users\User\Desktop\pro3\TodoApi\obj\Debug\net9.0\staticwebassets.build.json.cache
