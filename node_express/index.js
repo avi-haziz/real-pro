@@ -3,6 +3,10 @@ const renderApi = require('api')('@render-api/v1.0#4w9d16m9vwpbdt');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
+const cors = require('cors');
+app.use(cors({
+  origin: 'https://real-pro.onrender.com'
+}));
 
 renderApi.auth('rnd_HZrH4LDB4bVZceqGIbkw32UCRNp1');
 
