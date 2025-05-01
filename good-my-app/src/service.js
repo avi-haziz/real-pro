@@ -4,7 +4,7 @@ const apiUrl = "https://localhost:5047"
 
 export default {
   getTasks: async () => {
-    const result = await axios.get(`${"https://real-pro2.onrender.com"}/items`)  
+    const result = await axios.get(`${"https://real-pro2.onrender.com"}/Items`)  
     
       
     return result.data;
