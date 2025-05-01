@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3000;
 
 renderApi.auth('rnd_HZrH4LDB4bVZceqGIbkw32UCRNp1');
 
-app.get('/apps', async (req, res) => {
+app.get('/', async (req, res) => {
   try {
     const { data } = await renderApi.listServices({
       includePreviews: 'true',
