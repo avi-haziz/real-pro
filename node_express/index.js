@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 const cors = require('cors');
 app.use(cors({
-  origin: 'https://real-pro.onrender.com'
+  origin: 'https://real-pro.onrender.com/Items'
 }));
 
 renderApi.auth('rnd_HZrH4LDB4bVZceqGIbkw32UCRNp1');
